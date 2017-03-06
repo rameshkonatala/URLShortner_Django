@@ -25,7 +25,7 @@ SECRET_KEY = '(@c-(%_7#))wf9zp#amzwpyt$@9c)cdcyma-w86w3k-us=(7ng'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kirr.co','www.kirr.co']
+ALLOWED_HOSTS = ['kirr.co','www.kirr.co','rameshkirr.herokuapp.com']
 
 
 # Application definition
